@@ -3,7 +3,7 @@
 
 # ArrayOf
 
-A PHP 8.1 Typesafe array buy [RichBuilds](https://www.richbuilds.com).
+A PHP 8.1 Typesafe array by [RichBuilds](https://www.richbuilds.com).
 
 Example usage:
 
