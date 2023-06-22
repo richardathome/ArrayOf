@@ -1,7 +1,6 @@
 ![RichBuilds.com Components](/src/richbuilds_logo.png)
-![ArrayOf Logo](/src/array_of_logo.png)
 
-# ArrayOf
+# ∞ ArrayOf
 
 A PHP 8.1 Typesafe array by [RichBuilds](https://www.richbuilds.com).
 
